@@ -7,17 +7,17 @@ AI-powered test and README generation for your GitHub repositories. Turn any pub
 <p align="center">
   <strong>Main Interface</strong><br>
   <em>(placeholder for a screenshot of the main application UI)</em><br>
-  <img src="https://via.placeholder.com/800x500.png?text=RepoGenius+Main+UI" alt="Main Application UI">
+  <img src="/images/main.png" alt="Main Application UI">
 </p>
 <p align="center">
   <strong>Generated README.md</strong><br>
   <em>(placeholder for a screenshot of a sample generated README)</em><br>
-  <img src="https://via.placeholder.com/800x600.png?text=Sample+Generated+README.md" alt="Generated README">
+  <img src="/images/readme.png" alt="Generated README">
 </p>
 <p align="center">
   <strong>Generated Test Suite</strong><br>
   <em>(placeholder for a screenshot of a sample generated test file)</em><br>
-  <img src="https://via.placeholder.com/800x400.png?text=Sample+Generated+Test+File" alt="Generated Tests">
+  <img src="/images/tests.png" alt="Generated Tests">
 </p>
 
 ---
