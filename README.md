@@ -98,6 +98,5 @@ To get a local copy up and running, follow these simple steps.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-*(Note: A `LICENSE` file would need to be added separately.)*
 
 
