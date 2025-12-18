@@ -1,0 +1,9 @@
+streamlit
+requests
+pygithub
+google-genai
+python-frontmatter
+markdown-it-py
+mdit_py_plugins
+python-dotenv
+beautifulsoup4
